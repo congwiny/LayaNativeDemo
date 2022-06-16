@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="proj.android_studio" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":conch5" external.linked.project.path="$MODULE_DIR$/../../../conch5" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="LayaNativeDemo" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
-        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="GRADLE_PROJECT_PATH" value=":conch5" />
         <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.0" />
         <option name="LAST_KNOWN_AGP_VERSION" value="4.0.0" />
       </configuration>
@@ -19,43 +19,41 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
-        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../conch5/src/main/res;file://$MODULE_DIR$/../../../conch5/src/debug/res;file://$MODULE_DIR$/../../../conch5/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../conch5/src/androidTest/res;file://$MODULE_DIR$/../../../conch5/src/androidTestDebug/res;file://$MODULE_DIR$/../../../conch5/build/generated/res/rs/androidTest/debug" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
-    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
-    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
+    <output url="file://$MODULE_DIR$/../../../conch5/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../conch5/build/intermediates/javac/debugUnitTest/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../app">
-      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/assets" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/res" type="java-resource" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    <content url="file://$MODULE_DIR$/../../../conch5">
+      <sourceFolder url="file://$MODULE_DIR$/../../../conch5/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../conch5/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../conch5/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../conch5/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../conch5/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../conch5/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../conch5/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../conch5/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../conch5/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.http.legacy" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-annotations:25.3.1" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.zxing:core:3.3.1" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:25.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:25.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:25.3.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.journeyapps:zxing-android-embedded:3.3.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-v4:25.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment:25.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-media-compat:25.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:25.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:25.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-compat:25.3.1@aar" level="project" />
-    <orderEntry type="module" module-name="proj.android_studio.conch5" />
   </component>
 </module>

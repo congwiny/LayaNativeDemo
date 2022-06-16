@@ -1,0 +1,70 @@
+var entityGUID = 0;
+var ZM = {};
+var msgDic = {};
+ZM.sendMessage = function (msg) {
+    var action = msg.action;
+    var data = msg.data;
+    if (action == "initRoom") {
+        ZM.invoke("initRoom", {
+            "roomid": "1001",
+            "mapid": 5,
+            "game_uid": "test_1024",
+            "nickname": "外卖小哥",
+            "role_id": 1,
+            "oprate_entity": true,
+            "x": 50,
+            "y": 50,
+            "direction":2,
+            "back_img":"https://t7.baidu.com/it/u=3435942975,1552946865&fm=193&f=GIF",
+            "users": [
+                {
+                    "nickname": "毛飞",
+                    "role_id": 3,
+                    "game_uid": "test_1002",
+                    "direction": 2,
+                },
+                {
+                    "nickname": "贺显琪",
+                    "role_id": 10,
+                    "game_uid": "test_1003",
+                    "direction": 2
+                },
+                {
+                    "nickname": "李振国",
+                    "role_id": 10,
+                    "game_uid": "test_1001",
+                    "direction": 2
+                },
+            ],
+            "entitys": [
+                {
+                    "guid": 0,
+                    "builder_uid": "uid_1001",
+                    "entity_id": 1,
+                    "x": 30,
+                    "y": 30
+                }
+            ]
+        })
+    } else if (action == "buildEntity") {
+        entityGUID++;
+        ZM.invoke("addEntity", {
+            "guid": entityGUID,
+            "builder_uid": data["game_uid"],
+            "entity_id": data["entity_id"],
+            "x": data["x"],
+            "y": data["y"]
+        })
+    } else {
+        ZM.invoke(action, data);
+    }
+}
+ZM.onMessage = function (action, func) {
+    msgDic[action] = func;
+}
+ZM.invoke = function (action, data) {
+    var func = msgDic[action];
+    if (func) {
+        func({action: action, data: data});
+    }
+}

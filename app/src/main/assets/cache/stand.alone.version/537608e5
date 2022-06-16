@@ -1,0 +1,2456 @@
+{
+    "frames": {
+        "role3-applaud_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 158,
+                "y": 744
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-applaud_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 158,
+                "y": 861
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-applaud_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 247,
+                "y": 374
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-applaud_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 320,
+                "y": 374
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-applaud_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 393,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-applaud_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 466,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_D_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 76,
+                "x": 799,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 76
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_D_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 76,
+                "x": 658,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 76
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_D_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 76,
+                "x": 735,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 76
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_D_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 76,
+                "x": 812,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 76
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_D_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 76,
+                "x": 722,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 76
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_D_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 76,
+                "x": 876,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 76
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_L_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 639,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_L_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 701,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_L_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 763,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_L_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 825,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_L_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 887,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_L_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 949,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_R_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 63,
+                "x": 1050,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 63
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_R_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 63,
+                "x": 374,
+                "y": 842
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 63
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_R_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 63,
+                "x": 1114,
+                "y": 364
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 63
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_R_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 63,
+                "x": 447,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 63
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_R_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 63,
+                "x": 511,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 63
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_R_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 63,
+                "x": 575,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 63
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_U_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 78,
+                "x": 643,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 78
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_U_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 78,
+                "x": 579,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 78
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_U_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 78,
+                "x": 500,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 78
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_U_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 78,
+                "x": 421,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 78
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_U_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 78,
+                "x": 342,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 78
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-beckon_U_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 78,
+                "x": 263,
+                "y": 257
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 78
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_D_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 158,
+                "y": 627
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_D_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 158,
+                "y": 510
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_D_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 174,
+                "y": 393
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_D_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 1190,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_D_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 1181,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_D_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 85,
+                "y": 887
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_L_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 178,
+                "y": 248
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_L_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 352,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_L_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 0,
+                "y": 758
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_L_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 522,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_L_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 607,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_L_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 0,
+                "y": 875
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_R_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 89,
+                "y": 393
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_R_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 0,
+                "y": 524
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_R_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 267,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_R_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 178,
+                "y": 131
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_R_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 0,
+                "y": 641
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_R_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 84,
+                "x": 437,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 84
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_U_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 75,
+                "x": 1105,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_U_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 75,
+                "x": 889,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_U_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 75,
+                "x": 1041,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_U_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 75,
+                "x": 965,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_U_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 75,
+                "x": 1029,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-celebrate_U_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 75,
+                "x": 953,
+                "y": 126
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_0.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 178,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_1.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 89,
+                "y": 131
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_2.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 0,
+                "y": 262
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_3.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 89,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_4.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_5.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 0,
+                "y": 131
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_6.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 89,
+                "y": 262
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-cheer_7.png": {
+            "frame": {
+                "h": 130,
+                "idx": 0,
+                "w": 88,
+                "x": 0,
+                "y": 393
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 88
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_0.png": {
+            "frame": {
+                "h": 120,
+                "idx": 0,
+                "w": 72,
+                "x": 85,
+                "y": 645
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_1.png": {
+            "frame": {
+                "h": 120,
+                "idx": 0,
+                "w": 72,
+                "x": 85,
+                "y": 766
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_2.png": {
+            "frame": {
+                "h": 120,
+                "idx": 0,
+                "w": 72,
+                "x": 85,
+                "y": 524
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_3.png": {
+            "frame": {
+                "h": 120,
+                "idx": 0,
+                "w": 72,
+                "x": 1117,
+                "y": 243
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_idle_0.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 72,
+                "x": 304,
+                "y": 491
+            },
+            "sourceSize": {
+                "h": 112,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_idle_1.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 72,
+                "x": 231,
+                "y": 849
+            },
+            "sourceSize": {
+                "h": 112,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_idle_2.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 72,
+                "x": 231,
+                "y": 736
+            },
+            "sourceSize": {
+                "h": 112,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_idle_3.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 72,
+                "x": 231,
+                "y": 623
+            },
+            "sourceSize": {
+                "h": 112,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_idle_4.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 72,
+                "x": 231,
+                "y": 510
+            },
+            "sourceSize": {
+                "h": 112,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-ease_idle_5.png": {
+            "frame": {
+                "h": 112,
+                "idx": 0,
+                "w": 72,
+                "x": 977,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 112,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_D_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 904,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_D_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 831,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_D_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 758,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_D_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 685,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_D_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 612,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_D_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 72,
+                "x": 539,
+                "y": 360
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 72
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_L_0.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 692,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_L_1.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 567,
+                "y": 117
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_L_2.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 844,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_L_3.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 920,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_L_4.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 996,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_L_5.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 1072,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_R_0.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 1148,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_R_1.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 263,
+                "y": 131
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_R_2.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 339,
+                "y": 117
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_R_3.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 415,
+                "y": 117
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_R_4.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 491,
+                "y": 117
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_R_5.png": {
+            "frame": {
+                "h": 125,
+                "idx": 0,
+                "w": 75,
+                "x": 768,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 125,
+                "w": 75
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_U_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 69,
+                "x": 374,
+                "y": 725
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_U_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 69,
+                "x": 374,
+                "y": 608
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_U_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 69,
+                "x": 377,
+                "y": 491
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_U_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 69,
+                "x": 304,
+                "y": 838
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_U_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 69,
+                "x": 304,
+                "y": 721
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-embrace_U_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 69,
+                "x": 304,
+                "y": 604
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 69
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_D_0.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 58,
+                "x": 686,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 117,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_D_1.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 58,
+                "x": 745,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 117,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_D_2.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 58,
+                "x": 804,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 117,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_D_3.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 58,
+                "x": 627,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 117,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_D_4.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 58,
+                "x": 863,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 117,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_D_5.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 58,
+                "x": 922,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 117,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_L_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 438,
+                "y": 842
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_L_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 1197,
+                "y": 481
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_L_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 1135,
+                "y": 481
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_L_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 1073,
+                "y": 481
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_L_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 1011,
+                "y": 477
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_L_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 61,
+                "x": 1178,
+                "y": 364
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 61
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_R_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 56,
+                "x": 1143,
+                "y": 832
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 56
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_R_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 56,
+                "x": 1200,
+                "y": 832
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 56
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_R_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 56,
+                "x": 1029,
+                "y": 832
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 56
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_R_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 56,
+                "x": 1086,
+                "y": 832
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 56
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_R_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 56,
+                "x": 1224,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 56
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_R_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 56,
+                "x": 972,
+                "y": 829
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 56
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_U_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 60,
+                "x": 444,
+                "y": 608
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_U_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 60,
+                "x": 444,
+                "y": 725
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_U_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 60,
+                "x": 566,
+                "y": 711
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_U_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 60,
+                "x": 505,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_U_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 60,
+                "x": 505,
+                "y": 711
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-idle_U_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 60,
+                "x": 566,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 60
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_D_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 922,
+                "y": 712
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_D_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 981,
+                "y": 711
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_D_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1040,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_D_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1099,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_D_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1158,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_D_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1040,
+                "y": 715
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_L_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 863,
+                "y": 712
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_L_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1158,
+                "y": 715
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_L_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1217,
+                "y": 598
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_L_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 627,
+                "y": 712
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_L_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 500,
+                "y": 842
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_L_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 559,
+                "y": 828
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_R_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 618,
+                "y": 829
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_R_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 677,
+                "y": 829
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_R_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 736,
+                "y": 829
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_R_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 795,
+                "y": 829
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_R_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 854,
+                "y": 829
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_R_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 913,
+                "y": 829
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_U_0.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1217,
+                "y": 715
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_U_1.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 1099,
+                "y": 715
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_U_2.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 804,
+                "y": 712
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_U_3.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 745,
+                "y": 712
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_U_4.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 686,
+                "y": 712
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "role3-walk_U_5.png": {
+            "frame": {
+                "h": 116,
+                "idx": 0,
+                "w": 58,
+                "x": 981,
+                "y": 594
+            },
+            "sourceSize": {
+                "h": 116,
+                "w": 58
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "role_model_3.png",
+        "prefix": "texture/role_model_3/"
+    }
+}

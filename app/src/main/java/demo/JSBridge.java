@@ -4,6 +4,9 @@ import android.app.Activity;
 import android.graphics.Color;
 import android.os.Handler;
 import android.os.Looper;
+import android.util.Log;
+import android.widget.Toast;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 
@@ -11,6 +14,27 @@ import org.json.JSONException;
 public class JSBridge {
     public static Handler m_Handler = new Handler(Looper.getMainLooper());
     public static Activity mMainActivity = null;
+    private static final String TAG = "JSBridge";
+
+    public static void sendMessage(String msg){
+        m_Handler.post(
+                new Runnable() {
+                    public void run() {
+                        Log.e(TAG,"sendMessage msg="+msg);
+                    }
+                });
+    }
+
+    public static void launchComplete(){
+        m_Handler.post(
+                new Runnable() {
+                    public void run() {
+                        if (mMainActivity!=null){
+                            Toast.makeText(mMainActivity,"launchComplete",Toast.LENGTH_SHORT).show();
+                        }
+                    }
+                });
+    }
 
     public static void hideSplash() {
         m_Handler.post(

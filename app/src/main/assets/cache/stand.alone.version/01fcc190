@@ -1647,6 +1647,32 @@ var laya = (function () {
 	    }
 	}
 
+	var os = conchConfig.getOS();
+	var bridge;
+	if (os == "Conch-ios") {
+	    bridge = PlatformClass.createClass("JSBridge");//创建脚步代理
+	} else if (os == "Conch-android") {
+	  //需要完整的类路径，注意与iOS的不同
+	  bridge = PlatformClass.createClass("demo.JSBridge");//创建脚步代理
+	} 
+
+	function notifyLaunchComplete() {
+	  bridge.call('launchComplete');
+	}
+
+	function sendMessageToApp(msg) {
+	  bridge.call('sendMessage', msg);
+	}
+
+	class GameBridge {
+	    static setupBridge() {
+	        notifyLaunchComplete();
+	    }
+	    static sendMessageToApp(message) {
+	        sendMessageToApp(JSON.stringify(message));
+	    }
+	}
+
 	class PC extends SdkBase {
 	    constructor() {
 	        super();
@@ -1668,6 +1694,7 @@ var laya = (function () {
 	        msg.action = action;
 	        msg.data = data;
 	        this.ZMSdk.sendMessage(msg);
+	        GameBridge.sendMessageToApp(msg);
 	    }
 	    doLoginGame() {
 	        PanelManager.ins.openPanel(PanelKey.RegisterPanel);
@@ -6613,6 +6640,7 @@ var laya = (function () {
 	        this.gameInit();
 	        GameManager.ins.on(InitEvent.INIT_ROOM, this, this.loadInitRes);
 	        GameHandler.ins.send_initRoom();
+	        GameBridge.setupBridge();
 	    }
 	    clearResCache() {
 	        var urls = FontManager.getFontUrls();
